@@ -47,7 +47,7 @@
 
 <script setup>
 import ScreenLayout from '../../layouts/ScreenLayout.vue';
-import EventLogo from '../../assets/eventlogo-summer-2025.svg';
+import EventLogo from '../../assets/eventlogo-spring-2026.svg';
 import { ref, inject, onMounted, onUnmounted } from 'vue';
 const emitter = inject('emitter');
 
@@ -119,7 +119,7 @@ onUnmounted(() => {
             }
 
             &.summer {
-                filter: hue-rotate(-25deg); // Default Summer: 0deg, Adjusted for late SSSO: -25deg
+				filter: hue-rotate(200deg);
             }
         }
 
