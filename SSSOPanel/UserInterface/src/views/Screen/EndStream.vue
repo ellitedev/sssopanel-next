@@ -30,7 +30,7 @@
                                 class="scrolling-text"
                                 ref="creditsText"
                             >
-                                <h1>SSSO Summer 2025</h1>
+                                <h1>SSSO Spring 2026</h1>
                                 <h2>staff &amp; contributors</h2>
                                 <div class="lead">
                                     <span>Laura Sofia (thatanimeweirdo)</span>
@@ -47,9 +47,9 @@
 
                                 <div class="group">
                                     <span>tournament organizers</span>
-                                    <span>Ricki</span>
-                                    <span>TheWay123</span>
                                     <span>Gavi Guy</span>
+                                    <span>TheWay123</span>
+                                    <span>Ricki</span>
                                 </div>
 
                                 <div class="group">
@@ -57,24 +57,14 @@
                                     <span>kyu!</span>
                                     <span>LuminaryCat</span>
                                     <span>Programmatic</span>
-                                    <span>Satan</span>
-                                </div>
-                                <div class="group">
-                                    <span>it &amp; backend resources</span>
-                                    <span>Ellie "ellitedev" Leijten</span>
-                                    <span>Ricki</span>
-                                </div>
-                                <div class="group">
-                                    <span>internal support</span>
-                                    <span>Gavi Guy</span>
-                                    <span>Ricki</span>
-                                    <span>TheWay123</span>
+                                    <span>snaphap</span>
                                 </div>
                                 <div class="group">
                                     <span>broadcasters</span>
                                     <span>Gavi Guy</span>
                                     <span>smb</span>
                                     <span>TheWay123</span>
+                                    <span>blyenn</span>
                                 </div>
                                 <div class="group">
                                     <span>commentators</span>
@@ -89,10 +79,11 @@
                                     <span>metalman20</span>
                                     <span>moonlight.</span>
                                     <span>TheWay123</span>
+                                    <span>Unholy Synthetix</span>
                                 </div>
                                 <div class="group">
                                     <span>referees</span>
-                                    <span>Blyenn</span>
+                                    <span>blyenn</span>
                                     <span>C4veden</span>
                                     <span>Echeerie</span>
                                     <span>Ellite</span>
@@ -101,25 +92,22 @@
                                     <span>Khromatical</span>
                                     <span>kyu!</span>
                                     <span>LuminaryCat</span>
-                                    <span>moonlight.</span>
                                     <span>Ricki</span>
                                     <span>snaphap</span>
                                     <span>TheWay123</span>
                                 </div>
                                 <div class="group">
                                     <span>playtesters</span>
-                                    <span>Blyenn</span>
+                                    <span>blyenn</span>
                                     <span>C4veden</span>
-                                    <span>Dama</span>
-                                    <span>earth://</span>
+                                    <span>Carbon</span>
                                     <span>Gavi Guy</span>
+                                    <span>Halloween</span>
                                     <span>kyu!</span>
-                                    <span>LuminaryCat</span>
                                     <span>MrCringe</span>
-                                    <span>Satan</span>
-                                    <span>Ricki</span>
+                                    <span>quuqirjain</span>
                                     <span>snaphap</span>
-                                    <span>TheWay123</span>
+                                    <span>Unholy Synthetix</span>
                                 </div>
 
                                 <h2>players</h2>
@@ -143,13 +131,12 @@
                                 <h2>with charts created by</h2>
                                 <div class="group">
                                     <span></span>
-                                    <span>A11right</span>
-                                    <span>Adiale</span>
-                                    <span>Airplane_man</span>
-                                    <span>Ballinbino</span>
-                                    <span>Blyenn</span>
+                                    <span>AlexPain</span>
+                                    <span>BHUUQIUMZIINGA</span>
+                                    <span>blyenn</span>
                                     <span>C4veden</span>
-                                    <span>CrookyCumbles</span>
+                                    <span>cosmic</span>
+                                    <span>Crooky</span>
                                     <span>CubTheCube</span>
                                     <span>Dama</span>
                                     <span>Danicchi</span>
@@ -160,42 +147,31 @@
                                     <span>Gavi Guy</span>
                                     <span>groggo</span>
                                     <span>Halflite</span>
-                                    <span>HyperDash</span>
-                                    <span>ivor_mazar</span>
+                                    <span>Halloween</span>
+                                    <span>HighCaliberTree</span>
+                                    <span>IZEIYOX</span>
                                     <span>katzandboxez</span>
-                                    <span>Konomi</span>
                                     <span>Kwazi</span>
-                                    <span>Kyu!</span>
-                                    <span>listae.</span>
+                                    <span>kyu!</span>
                                     <span>Loosiano</span>
-                                    <span>LuminaryCat</span>
+                                    <span>Mazar</span>
                                     <span>moonlight.</span>
-                                    <span>Maffoe</span>
                                     <span>MrCringe</span>
                                     <span>NEFirefox</span>
-                                    <span>Niepo</span>
                                     <span>NOIN</span>
-                                    <span>Pea_nut_Butt_er</span>
-                                    <span>PickPig</span>
-                                    <span>PnoMader</span>
-                                    <span>Programmatic</span>
+                                    <span>Pea_nut Butt_er</span>
                                     <span>quuqirjain</span>
-                                    <span>Ricki</span>
-                                    <span>sanko4322</span>
-                                    <span>Satan</span>
-                                    <span>saya_kanzaki</span>
                                     <span>Schroeder</span>
-                                    <span>smb</span>
                                     <span>snaphap</span>
                                     <span>sodapants</span>
-                                    <span>StevenofAstora</span>
+                                    <span>Steven of Astora</span>
                                     <span>Stride</span>
                                     <span>swago</span>
+                                    <span>szandad</span>
                                     <span>TheBlockiest</span>
                                     <span>TheWay123</span>
                                     <span>TypeY</span>
                                     <span>unholy_synthetix</span>
-                                    <span>void_dd</span>
                                     <span>zxcv-01</span>
                                 </div>
                             </div>
