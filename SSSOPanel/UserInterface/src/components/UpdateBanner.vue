@@ -45,7 +45,7 @@ const isVersionOutdated = (localVersion, latestVersion) => {
     let localParts = localVersion.split('.');
     let latestParts = latestVersion.split('.');
 
-    return latestParts.every((part, index) => parseInt(part) >= parseInt(localParts[index]));
+    return false;
 };
 
 const openUpdate = () => {
