@@ -322,7 +322,7 @@ onUnmounted(() => {
     }
 
     &.summer {
-		filter: hue-rotate(200deg);
+		filter: hue-rotate(195deg);
     }
 
     & .noise {
@@ -422,7 +422,7 @@ onUnmounted(() => {
                     }
 
                     &.summer {
-						filter: hue-rotate(200deg);
+						filter: hue-rotate(195deg);
                     }
                 }
 
@@ -578,7 +578,7 @@ onUnmounted(() => {
                     }
 
                     &.summer {
-						filter: hue-rotate(200deg);
+						filter: hue-rotate(195deg);
                     }
                 }
 

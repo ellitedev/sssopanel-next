@@ -37,7 +37,7 @@
                                     <span>Lead Developer &amp; UI/Branding Design</span>
                                 </div>
                                 <div class="lead">
-                                    <span>Ellie "ellitedev" Leijten</span>
+                                    <span>Alpine System</span>
                                     <span>Lead Community</span>
                                 </div>
                                 <div class="lead">
@@ -54,6 +54,7 @@
 
                                 <div class="group">
                                     <span>organizational contributors</span>
+									<span>alpine</span>
                                     <span>kyu!</span>
                                     <span>LuminaryCat</span>
                                     <span>Programmatic</span>
@@ -63,13 +64,12 @@
                                     <span>broadcasters</span>
                                     <span>Gavi Guy</span>
                                     <span>smb</span>
-                                    <span>TheWay123</span>
                                     <span>blyenn</span>
                                 </div>
                                 <div class="group">
                                     <span>commentators</span>
+                                    <span>alpine</span>
                                     <span>Carbon</span>
-                                    <span>Ellite</span>
                                     <span>Dama</span>
                                     <span>earth://</span>
                                     <span>Gavi Guy</span>
@@ -83,10 +83,10 @@
                                 </div>
                                 <div class="group">
                                     <span>referees</span>
+                                    <span>alpine</span>
                                     <span>blyenn</span>
                                     <span>C4veden</span>
                                     <span>Echeerie</span>
-                                    <span>Ellite</span>
                                     <span>Gavi Guy</span>
                                     <span>Halflite</span>
                                     <span>Khromatical</span>
@@ -131,10 +131,11 @@
                                 <h2>with charts created by</h2>
                                 <div class="group">
                                     <span></span>
-                                    <span>AlexPain</span>
+                                    <span>AleX(痛い)24</span>
                                     <span>BHUUQIUMZIINGA</span>
                                     <span>blyenn</span>
                                     <span>C4veden</span>
+									<span>Carbon</span>
                                     <span>cosmic</span>
                                     <span>Crooky</span>
                                     <span>CubTheCube</span>
@@ -150,7 +151,7 @@
                                     <span>Halloween</span>
                                     <span>HighCaliberTree</span>
                                     <span>IZEIYOX</span>
-                                    <span>katzandboxez</span>
+                                    <span>KatzAndBoxez</span>
                                     <span>Kwazi</span>
                                     <span>kyu!</span>
                                     <span>Loosiano</span>
@@ -171,7 +172,7 @@
                                     <span>TheBlockiest</span>
                                     <span>TheWay123</span>
                                     <span>TypeY</span>
-                                    <span>unholy_synthetix</span>
+                                    <span>Unholy Synthetix</span>
                                     <span>zxcv-01</span>
                                 </div>
                             </div>
@@ -290,7 +291,7 @@ onUnmounted(() => {
         }
 
         &.summer {
-				filter: hue-rotate(200deg);
+				filter: hue-rotate(195deg);
         }
     }
 

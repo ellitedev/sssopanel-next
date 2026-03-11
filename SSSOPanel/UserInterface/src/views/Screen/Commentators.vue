@@ -81,7 +81,7 @@ onUnmounted(() => {
             }
 
             &.summer {
-				filter: hue-rotate(200deg);
+				filter: hue-rotate(195deg);
             }
         }
 
